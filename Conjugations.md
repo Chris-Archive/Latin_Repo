@@ -1,9 +1,13 @@
 # Conjugation
 
+Forms listed are given first in the singular, then in the plural.
+
+Irregular conjugations are not (yet) listed.
+
 ## Infinitives
 
 
-|  | Present | Perfect | Future | Present | Perfect | Future |
+|  | Praesēns | Perfectum | Futūrum | Praesēns | Perfectum | Futūrum |
 | -: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Coniugātiō Primus | -āre | -āvisse | -ātūrum esse | -ārī  | -ārum esse | -ātum īri |
 | Coniugātiō Secundus | -ēre | -uisse | -itūrum esse | -ērī | -itum esse | -itum īri |
@@ -30,6 +34,18 @@
 | Coniugātiō Quārtus | -ior | -īris | -ītur | -īmur | -īminī | -iuntur |
 
 ## Subjunctive Present Active
+
+|  | 1st | 2nd | 3rd | 1st | 2nd | 3rd |
+| -: | :-: | :-: | :-: | :-: | :-: | :-: |
+|  | -m | -s | -t | -mus | -tis | -nt |
+
+For the following conjugations, use the present infinitive as follows:
+<ol>
+    <li>Remove -āre with -e, then ending</li>
+    <li>Remove -re with -a, then ending</li>
+    <li>Remove -ere with -a, then ending</li>
+    <li>Remove -re with -a, then ending</li>
+</ol>
 
 |  | 1st | 2nd | 3rd | 1st | 2nd | 3rd |
 | -: | :-: | :-: | :-: | :-: | :-: | :-: |
