@@ -65,7 +65,7 @@ Masculine second declension that ends in -r or -er
 | Acc | -ū | -ua |
 | Abl | -ū | -ibus |
 
-<a href="https://wiktionary.org/wiki/Appendix:Latin_fifth_declension">## Fifth Declension</a>
+## [Fifth Declension]("https://wiktionary.org/wiki/Appendix:Latin_fifth_declension")
 
 All nouns are feminine, except diēs and its derivatives and compounds.
 
