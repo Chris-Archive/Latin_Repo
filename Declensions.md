@@ -65,15 +65,28 @@ Masculine second declension that ends in -r or -er
 | Acc | -ū | -ua |
 | Abl | -ū | -ibus |
 
-## Fifth Declension
+[## Fifth Declension]("https://wiktionary.org/wiki/Appendix:Latin_fifth_declension")
+
+All nouns are feminine, except diēs and its derivatives and compounds.
+
+If the stem ends in a vowel, -iēs, else -ēs.
 
 ### Stem in -iēs
 
 | Case | Singular | Plural |
 | :-: | :-: | :-: |
 | Nom | -ēs | -ēs |
-| Gen | -ēī (-eī) | -ēbum |
-| Dat | -ēī (-eī)| -ēbus |
+| Gen | -ēī | -ēbum |
+| Dat | -ēī | -ēbus |
 | Acc | -em | -ēs |
 | Abl | -ē | -ēbus |
 
+### Stem in -ēs
+
+| Case | Singular | Plural |
+| :-: | :-: | :-: |
+| Nom | -ēs | -ēs |
+| Gen | -eī | -ēbum |
+| Dat | -eī | -ēbus |
+| Acc | -em | -ēs |
+| Abl | -ē | -ēbus |
