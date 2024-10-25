@@ -53,3 +53,22 @@ For the following conjugations, use the present infinitive as follows:
 | Coniugātiō Secundus | -eam | -eās | -eat | -eāmus | -eātis | -eant |
 | Coniugātiō Tertius | -am | -ās | -at | -āmus | -ātis | -ant |
 | Coniugātiō Quārtus | -iam | -iās | -iat | -iāmus | -iātis | -iant |
+
+
+## Subjunctive Imperfect Active 
+
+|  | 1st | 2nd | 3rd | 1st | 2nd | 3rd |
+| -: | :-: | :-: | :-: | :-: | :-: | :-: |
+|  | -m | -s | -t | -mus | -tis | -nt |
+
+Take the present infinitive, then add the appropriate ending from above.
+
+|  | 1st | 2nd | 3rd | 1st | 2nd | 3rd |
+| -: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Coniugātiō Primus | -ārem | -ārēs  | -āret  | -ārēmus  | -ārētis | -ārent |
+| Coniugātiō Secundus | -ērem | -ērēs  | -ēret | -ērēmus | -ērētis  | -ērent |
+| Coniugātiō Tertius | -erem | -erēs | -eret | -erēmus | -erētis | -erent |
+| Coniugātiō Quārtus | -īrem | -īrēs | -īret | -īrēmus | -īrētis | -īrent |
+
+
+
