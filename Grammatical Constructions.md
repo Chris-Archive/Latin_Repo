@@ -16,6 +16,7 @@
 
 ### Ablative of Cause []("https://dcc.dickinson.edu/grammar/latin/ablative-cause")
 - The ablative (with or without a preposition) is used to express cause.
+  - Dē suā perfidiā interficientur.<br>They will be slain due to their treachery.
 
 ### Ablative of Agent []("")
 - The voluntary agent after a passive verb is expressed by the ablative with ā or ab.
@@ -26,10 +27,32 @@
   - Maior mē est.<br>He is bigger than I.
 - Adverbial comparatives are usually followed by quam.
 
+### Ablative of Means []("https://dcc.dickinson.edu/grammar/latin/ablative-means")
+- The Albative of Means is used to denote the means or instrument of an action.
+  - <ins>Equō</ins> ambulābit ad Rōmam.<br>He will travel to Rome by horse.
+  - Pugnō <ins>suīs</ins> <ins>pugnīs</ins>.<br>He is fighting with his fists.
+
+### Ablative of Manner []("https://dcc.dickinson.edu/grammar/latin/ablative-manner")
+- Manner of an action is denoted by the ablative; usually with the preposition cum. It is the manner by which the subject acts.
+  - Mārcus <ins>cum</ins> <ins>celeritāte</ins> ambulant.<br>Marcus walks with haste.
+
+### Ablative of Accompaniment []("https://dcc.dickinson.edu/grammar/latin/ablative-accompaniment")
+- The Ablative of Accompaniment is denoted by the ablative; usually with the preposition cum.
+  - Mārcus <ins>cum</ins> <ins>Quīntō</ins> ambulant.<br>Marcus walks with Quintus.
+
+### Ablative of the Degree of Difference []("https://dcc.dickinson.edu/grammar/latin/ablative-degree-difference")
+- The Ablative of Accompaniment is denoted by the ablative; usually with the preposition cum.
+  - Mārcus <ins>cum</ins> <ins>Quīntō</ins> ambulant.<br>Marcus walks with Quintus.
+
+### Ablative of the Degree of Difference []("https://dcc.dickinson.edu/grammar/latin/ablative-degree-difference")
+- Comparatives and words implying comparison use the ablative to denote the Degree of Difference
+  - Maior multō est quam eius frāter.<br>He is much bigger than his brother.
+
 ## Comparative Clauses
 
 ### quam with comparative adjective or adverb
 - than
+  - Hic <ins>maior</ins> est <ins>quam</ins> ille.<br>This is bigger than that.
 
 
 ### ut + Subjunctive:

@@ -12,6 +12,8 @@ Forms are the same in the masculine and the feminine. The neuter is very rare an
 | Acc | -am | -ās |
 | Abl | -ā | -īs |
 
+#### Adverb: `-e
+
 ## Second Declension
 
 ### Masculine
@@ -42,6 +44,14 @@ Masculine second declension that ends in -r or -er
 | Dat | -ō | -īs |
 | Acc | -um | -ōs |
 | Abl | -ō | -īs |
+
+## Third Declension
+
+### Nouns
+
+### Adjectives
+
+
 
 ## Fourth Declension
 
@@ -90,3 +100,40 @@ If the stem ends in a vowel, -iēs, else -ēs.
 | Dat | -eī | -ēbus |
 | Acc | -em | -ēs |
 | Abl | -ē | -ēbus |
+
+## Adverbials and Comparatives
+
+### Adverbs
+| Declension | Ending |
+| -: | :-: |
+| Prima | -ē |
+| Secunda | -ē |
+| Tertia | -ter / -iter / -er |
+
+For third declension, if the lemma:
+- ends in -nt, the adverb is -er.
+- ends in an i-stem, the adverb is -ter.
+- does not end in -nt or an i-stem, end in -iter.
+
+### Comparatives
+Regular comparatives can be formed.
+
+#### Masculine and Feminine
+
+| Case | Singular | Plural |
+| :-: | :-: | :-: |
+| Nom | -ior | -iōrēs |
+| Gen | -iōris | -iōrum |
+| Dat | -iōrī | -iōribus |
+| Acc | -iōrem | -iōrēs |
+| Abl | -iōre | -iōribus |
+
+#### Neuter
+
+| Case | Singular | Plural |
+| :-: | :-: | :-: |
+| Nom | -ius | - iōra |
+| Gen | -iōris | -iōrum |
+| Dat | -iōrī | -iōra |
+| Acc | -ius | -iōrēs |
+| Abl | -iōre | -iōribus |
