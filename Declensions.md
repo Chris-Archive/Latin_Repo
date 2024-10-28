@@ -12,7 +12,6 @@ Forms are the same in the masculine and the feminine. The neuter is very rare an
 | Acc | -am | -ās |
 | Abl | -ā | -īs |
 
-#### Adverb: `-e
 
 ## Second Declension
 
