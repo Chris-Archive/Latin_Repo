@@ -67,8 +67,8 @@
 ## Subjunctive
 The <ins>independent</ins> subjunctive in Latin could have any of the following meanings:
 - Horatory (An exhortation or command)
-- Concessive (A concession)
 - Optative (A wish)
+- Concessive (A concession)
 - Deliberative (A question of doubt)
 - Potential (A possibility or contingency)
 
@@ -79,6 +79,19 @@ The <ins>dependent</ins> subjunctive in Latin is used to express:
 - Result (Consecutive)
 - Time (Temporal)
 - Indirect question
+
+### Horatory Subjunctive
+- Used in the present tense to express an exhortation or a command.
+  - Hōs iatrōnēs interficiāmus.<br>Let's kill these robbers.
+
+### Optative Subjunctive
+- Used to express a wish. The present tense denotes the wish as possible. The negative is nē.
+  - 
+- The imperfect expresses the wish is unaccomplished in the present.
+  - 
+- The pluperfect expresses the wish is unaccomplished in the past.
+- 
+
 
 ## Imperatives and Commands
 
