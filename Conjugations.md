@@ -82,12 +82,16 @@ For the third conjugation -iō, i is lost before a constant, and before i, ī, a
 
 ## Conjugation Meanings
 
-### 
+#### Latin conjugation equivalent in English using the verb "I see"
 
 | Tense | Mood | Present | Imperfect | Future | Perfect | Pluperfect | Future Perfect |
 | -: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | 
 | Active | Indicative | I see | I was seeing | I will see | I saw | I had saw | I will have seen |
 | Passive | Indicative | I am seen | I was being seen | I will be seen | I was seen | I had been seen | I will have been seen |
-| Active | Subjunctive | I may see | I might see | N/A | I might have seen  | I might have seen | N/A |
-| Passive | Subjunctive | I may be seen | I might be seen | N/A | I might have been seen | I might have been seen | N/A |
+| Active | Subjunctive | I may see | I might see | - | I might have seen  | I might have seen | - |
+| Passive | Subjunctive | I may be seen | I might be seen | - | I might have been seen | I might have been seen | - |
+| Active | Imperative | See! | - | See! | - | - | - |
+| Passive | Imperative | Be seen! | - | Be seen! | - | - | - |
 
+- The future imperatives have the meaning in the future.
+- Other subjunctive translations besides "may" is "let, might, had, should, would", contingent on context and construction.
