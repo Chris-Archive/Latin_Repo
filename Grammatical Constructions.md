@@ -83,4 +83,4 @@
 
 #### Nē + perfect subjunctive
 - Nē - that not, in order not to, lest. Unlike the present subjunctive, this adds a sense of urgency or emphasis.
-  - Nē dīxerīs!<br>Do not say that!
+  - Nē dīxerīs!<br>Do <ins>not</ins> say that!
