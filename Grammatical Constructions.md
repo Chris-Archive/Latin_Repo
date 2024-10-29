@@ -64,3 +64,23 @@
 - Used when a there is a comparative in the subordinate clause of purpose.
   -  Labōrat quō divitior mē fīat.<br>He works so that he may become wealthier than me.
 
+## Imperatives and Commands
+
+### Third Person Imperative
+- 
+
+
+### Negative Commands 
+
+#### Nōlī + infinitive
+- Nōlī / Nōlīte with an infinitive is a common way to give a negative command.
+  - Nōlī impudēns esse.<br>Do not be shameless.
+  - Nōlī audīre.<br> Don't listen.
+
+#### Cavē + present subjunctive
+- Cavē / Cavēte - beware not to, refrain from, make sure that not, mind that you don't
+  - Cavē cadās.<br>Be careful that you don't fall.<br>Take care to not fall.<br>Don't fall.
+
+#### Nē + perfect subjunctive
+- Nē - that not, in order not to, lest. Unlike the present subjunctive, this adds a sense of urgency or emphasis.
+  - Nē dīxerīs!<br>Do not say that!
