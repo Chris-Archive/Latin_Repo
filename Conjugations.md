@@ -78,3 +78,16 @@ Take the present infinitive, then add the appropriate ending from above.
 ###  Third Conjugation -iō
 
 For the third conjugation -iō, i is lost before a constant, and before i, ī, and e, except in the future, participle, gerund, and gerundive. [Source](https://dcc.dickinson.edu/grammar/latin/3rd-conjugation-io-verbs)
+
+
+## Conjugation Meanings
+
+### 
+
+| Tense | Mood | Present | Imperfect | Future | Perfect | Pluperfect | Future Perfect |
+| -: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | 
+| Active | Indicative | I see | I was seeing | I will see | I saw | I had saw | I will have seen |
+| Passive | Indicative | I am seen | I was being seen | I will be seen | I was seen | I had been seen | I will have been seen |
+| Active | Subjunctive | I may see | I might see | N/A | I might have seen  | I might have seen | N/A |
+| Passive | Subjunctive | I may be seen | I might be seen | N/A | I might have been seen | I might have been seen | N/A |
+
