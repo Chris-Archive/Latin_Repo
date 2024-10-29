@@ -64,6 +64,22 @@
 - Used when a there is a comparative in the subordinate clause of purpose.
   -  Labōrat quō divitior mē fīat.<br>He works so that he may become wealthier than me.
 
+## Subjunctive
+The <ins>independent</ins> subjunctive in Latin could have any of the following meanings:
+- Horatory (An exhortation or command)
+- Concessive (A concession)
+- Optative (A wish)
+- Deliberative (A question of doubt)
+- Potential (A possibility or contingency)
+
+The <ins>dependent</ins> subjunctive in Latin is used to express:
+- Condition (future or contrary to fact)
+- Purpose (Final)
+- Characteristic
+- Result (Consecutive)
+- Time (Temporal)
+- Indirect question
+
 ## Imperatives and Commands
 
 ### Third Person Imperative
@@ -76,6 +92,7 @@
 - Nōlī / Nōlīte with an infinitive is a common way to give a negative command.
   - Nōlī impudēns esse.<br>Do not be shameless.
   - Nōlī audīre.<br> Don't listen.
+- The most common and ceremonious of the negative imperatives.
 
 #### Cavē + present subjunctive
 - Cavē / Cavēte - beware not to, refrain from, make sure that not, mind that you don't
@@ -84,3 +101,5 @@
 #### Nē + perfect subjunctive
 - Nē - that not, in order not to, lest. Unlike the present subjunctive, this adds a sense of urgency or emphasis.
   - Nē dīxerīs!<br>Do <ins>not</ins> say that!
+- Nē + subjunctive is horatory.
+- Less formal, more peremptory, but not discourteous than the other negative imperatives.
