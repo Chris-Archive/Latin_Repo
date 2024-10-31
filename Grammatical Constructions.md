@@ -69,8 +69,8 @@ The <ins>independent</ins> subjunctive in Latin could have any of the following 
 - Horatory (An exhortation or command)
 - Optative (A wish)
 - Deliberative (A question of doubt)
-- Concessive (A concession)
 - Potential (A possibility or contingency)
+- Concessive (A concession)
 
 The <ins>dependent</ins> subjunctive in Latin is used to express:
 - Condition (future or contrary to fact)
@@ -99,6 +99,9 @@ The <ins>dependent</ins> subjunctive in Latin is used to express:
   - Quid dīceret?<br>What should he have been saying?
   - Quid dīxerit?<br>What should he have said?
   - Quid dīxisset?<br>What should he have said? (before another past action in the perfect occured)
+
+### Potential Subjunctive [](https://dcc.dickinson.edu/grammar/latin/potential-subjunctive)
+- Used to suggest an action as possible or conceivable. It is rendered into English as: would, should, may, might, can, or could. The negative is nōn.
 
 
 ## Imperatives and Commands
