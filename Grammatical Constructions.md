@@ -68,8 +68,8 @@
 The <ins>independent</ins> subjunctive in Latin could have any of the following meanings:
 - Horatory (An exhortation or command)
 - Optative (A wish)
-- Concessive (A concession)
 - Deliberative (A question of doubt)
+- Concessive (A concession)
 - Potential (A possibility or contingency)
 
 The <ins>dependent</ins> subjunctive in Latin is used to express:
@@ -84,13 +84,21 @@ The <ins>dependent</ins> subjunctive in Latin is used to express:
 - Used in the present tense to express an exhortation or a command.
   - Hōs iatrōnēs interficiāmus.<br>Let's kill these robbers.
 
-### Optative Subjunctive
-- Used to express a wish. The present tense denotes the wish as possible. The negative is nē.
-  - 
+### Optative Subjunctive [](https://dcc.dickinson.edu/grammar/latin/optative-subjunctive)
+- Used to express a wish. The present tense denotes the wish as possible. It is often preceeded by the word utinam ("if only"). The negative is nē.
+  - Ad Britanniam utinam ambulēmus.<br>If only we could go to Brittania.
 - The imperfect expresses the wish is unaccomplished in the present.
-  - 
+  - Ad Britanniam utinam ambulārēmus.<br>If only we were going to Brittania. 
 - The pluperfect expresses the wish is unaccomplished in the past.
-- 
+  - Ad Britanniam utinam ambulāvissem.<br>If only we could've gone to Brittania.
+- The use of the perfect is archaic.
+
+### Deliberative Subjunctive [](https://dcc.dickinson.edu/grammar/latin/deliberative-subjunctive)
+- Used in questions implying doubt or indignation, and an impossibility of a thing being done. The negative is nōn.
+  - Quid dīcat?<br>What should he say?
+  - Quid dīceret?<br>What should he have been saying?
+  - Quid dīxerit?<br>What should he have said?
+  - Quid dīxisset?<br>What should he have said? (before another past action in the perfect occured)
 
 
 ## Imperatives and Commands
