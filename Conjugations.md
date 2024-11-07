@@ -56,6 +56,16 @@ For the following conjugations, use the present infinitive as follows:
 | Coniugātiō Tertia (-iō Var.) | -iam | -iās | -iat | -iāmus | -iātis | -iant |
 | Coniugātiō Quārta | -iam | -iās | -iat | -iāmus | -iātis | -iant |
 
+## Subjunctive Present Passive
+
+|  | 1st | 2nd | 3rd | 1st | 2nd | 3rd |
+| -: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Coniugātiō Prima | -er | -ēris | -ētur | -ēmur | -ēminī | -entur |
+| Coniugātiō Secunda | -eor | -ēris | -ētur | -ēmur | -ēminī | -entur |
+| Coniugātiō Tertia | -ar | -āris | -ātur | -āmur | -āminī | -antur |
+| Coniugātiō Tertia (-iō Var.) | -iar | -iāris | -iātur | -iāmur | -iāminī | -inatur |
+| Coniugātiō Quārta | -iar | -iāris | -iātur | -iāmur | -iāminī | -iantur |
+
 
 ## Subjunctive Imperfect Active 
 
