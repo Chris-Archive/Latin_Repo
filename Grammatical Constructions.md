@@ -64,3 +64,66 @@
 - Used when a there is a comparative in the subordinate clause of purpose.
   -  Labōrat quō divitior mē fīat.<br>He works so that he may become wealthier than me.
 
+## Subjunctive
+The <ins>independent</ins> subjunctive in Latin could have any of the following meanings:
+- Horatory (An exhortation or command)
+- Optative (A wish)
+- Deliberative (A question of doubt)
+- Potential (A possibility or contingency)
+- Concessive (A concession)
+
+The <ins>dependent</ins> subjunctive in Latin is used to express:
+- Condition (future or contrary to fact)
+- Purpose (Final)
+- Characteristic
+- Result (Consecutive)
+- Time (Temporal)
+- Indirect question
+
+### Horatory Subjunctive
+- Used in the present tense to express an exhortation or a command.
+  - Hōs iatrōnēs interficiāmus.<br>Let's kill these robbers.
+
+### Optative Subjunctive [](https://dcc.dickinson.edu/grammar/latin/optative-subjunctive)
+- Used to express a wish. The present tense denotes the wish as possible. It is often preceeded by the word utinam ("if only"). The negative is nē.
+  - Ad Britanniam utinam ambulēmus.<br>If only we could go to Brittania.
+- The imperfect expresses the wish is unaccomplished in the present.
+  - Ad Britanniam utinam ambulārēmus.<br>If only we were going to Brittania. 
+- The pluperfect expresses the wish is unaccomplished in the past.
+  - Ad Britanniam utinam ambulāvissem.<br>If only we could've gone to Brittania.
+- The use of the perfect is archaic.
+
+### Deliberative Subjunctive [](https://dcc.dickinson.edu/grammar/latin/deliberative-subjunctive)
+- Used in questions implying doubt or indignation, and an impossibility of a thing being done. The negative is nōn.
+  - Quid dīcat?<br>What should he say?
+  - Quid dīceret?<br>What should he have been saying?
+  - Quid dīxerit?<br>What should he have said?
+  - Quid dīxisset?<br>What should he have said? (before another past action in the perfect occured)
+
+### Potential Subjunctive [](https://dcc.dickinson.edu/grammar/latin/potential-subjunctive)
+- Used to suggest an action as possible or conceivable. It is rendered into English as: would, should, may, might, can, or could. The negative is nōn.
+
+
+## Imperatives and Commands
+
+### Third Person Imperative
+- 
+
+
+### Negative Commands 
+
+#### Nōlī + infinitive
+- Nōlī / Nōlīte with an infinitive is a common way to give a negative command.
+  - Nōlī impudēns esse.<br>Do not be shameless.
+  - Nōlī audīre.<br> Don't listen.
+- The most common and ceremonious of the negative imperatives.
+
+#### Cavē + present subjunctive
+- Cavē / Cavēte - beware not to, refrain from, make sure that not, mind that you don't
+  - Cavē cadās.<br>Be careful that you don't fall.<br>Take care to not fall.<br>Don't fall.
+
+#### Nē + perfect subjunctive
+- Nē - that not, in order not to, lest. Unlike the present subjunctive, this adds a sense of urgency or emphasis.
+  - Nē dīxerīs!<br>Do <ins>not</ins> say that!
+- Nē + subjunctive is horatory.
+- Less formal, more peremptory, but not discourteous than the other negative imperatives.
