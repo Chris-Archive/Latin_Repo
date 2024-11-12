@@ -102,6 +102,11 @@ The <ins>dependent</ins> subjunctive in Latin is used to express:
 
 ### Potential Subjunctive [](https://dcc.dickinson.edu/grammar/latin/potential-subjunctive)
 - Used to suggest an action as possible or conceivable. It is rendered into English as: would, should, may, might, can, or could. The negative is nōn.
+- The present and perfect refer without distinction to the immediate future.
+  - Aliquis hoc crēdat.<br>Someone might believe this.
+- The imperfect and occasionally the perfect refer to past time.
+  - Aliquis hoc crēderet<br>Someone might have believed this.
+- The pluperfect refers to what might have happened, though this is rare.
 
 
 ## Imperatives and Commands
