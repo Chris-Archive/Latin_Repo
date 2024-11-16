@@ -1,0 +1,37 @@
+# Expressions
+
+## Simple Expressions.
+
+- Abnegō.<br> I decline.
+
+- Dēnegō.<br> I refuse. (a request)
+
+- Cōnsentītur.<br>Agreed.
+
+- Continuēmus.<br>Let's continue.
+
+- Cessēs?<br>Could you stop?<br>Would you stop? (doing something)
+
+- Fīet.<br>It will be done.
+
+## Common Expressions
+
+- Ut valēs?<br>How are you? 
+
+- Ut valētis?<br>How are you all?
+
+- Quid nōmen tibi est?<br>What is your name? (Idiomatic)
+
+- Mē habeō bene.<br>I'm doing well.<br>I feel well.
+
+- Minus bellē mē habeō.<br>I'm not doing very well.<br>I don't feel very well.
+
+## Speaking
+
+- Possum latīnē loquī.<br>I can speak in Latin.
+
+- Vīsne (mēcum) latīnē loquī?<br>Do you want to speak in Latin (with me)?
+
+- Loquāmur latīnē.<br> Let's speak in Latin.
+
+- Quid fācis ut vīvās?<br>What do you do for work?<br>
