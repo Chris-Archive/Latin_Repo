@@ -10,7 +10,7 @@
 
 - Continuēmus.<br>Let's continue.
 
-- Cessēs?<br>Could you stop?<br>Would you stop? (doing something)
+- Cessēsne?<br>Could you stop?<br>Would you stop? (doing something)
 
 - Fīet.<br>It will be done.
 
@@ -20,7 +20,7 @@
 
 - Ut valētis?<br>How are you all?
 
-- Quid nōmen tibi est?<br>What is your name? (Idiomatic)
+- Quid nōmen tibi est?<br>What is your name?
 
 - Mē habeō bene.<br>I'm doing well.<br>I feel well.
 
@@ -35,3 +35,15 @@
 - Loquāmur latīnē.<br> Let's speak in Latin.
 
 - Quid fācis ut vīvās?<br>What do you do for work?<br>
+
+## Time, Season, Weather
+
+- Quota hōra est?<br>What time is it?
+  - Prīma hōra est.<br>It's the first hour. (1am now, 6am in antiquity)
+  - Merīdiēs est.<br>It is midday. (noon)
+  - Media nox est.<br>It is midnight.
+
+- Quae est tempestās?<br>What is the weather?
+  - Tempestās nūbila est.<br>The weather is cloudy.
+  - Tempestās aprīca est.<br>The weather is sunny.
+  - Tempestās pluviōsa est.<br> The weather is rainy.
