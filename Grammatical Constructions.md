@@ -2,6 +2,12 @@
 
 ## Declension Forms
 
+
+### Dative of Possession [Source](https://dcc.dickinson.edu/grammar/latin/dative-possession)
+- The dative is used with **esse** and similar words to denote possession.
+  - Est mihi domī pater.<br>There is to me a father at home.<br>I have a father at home.
+  - 
+
 ### Ablative of Separation []("https://dcc.dickinson.edu/grammar/latin/ablative-separation")
 - Words signifying separation or privation are followed by the ablative.
   - Careor aquā.<br>I am deprived of water.
