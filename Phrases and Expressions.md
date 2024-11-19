@@ -47,3 +47,19 @@
   - Tempestās nūbila est.<br>The weather is cloudy.
   - Tempestās aprīca est.<br>The weather is sunny.
   - Tempestās pluviōsa est.<br> The weather is rainy.
+
+## Drinking, Eating, In Company, Restaurants
+
+- Where do you want to sit?<br>Ubi vīs sedēre?
+
+- Where are you going to sit?<br>Quō vadis sedēre?
+
+- Can you pass me the plate?<br>Tradāsne mihi patinam?
+
+- Can you pass me my drink / coffee / water?<br>Tradāsne mihi pōtum / cafēam / aquam? 
+
+- Will you order any food tonight?<br>
+
+- Did you actually practice any Latin this week?<br>
+
+- Get a seat so that we can work there to study Latin.<br>
