@@ -50,7 +50,7 @@
 
 ## Drinking, Eating, In Company, Restaurants
 
-- Where do you want to sit?<br>Ubi vīs sedēre?
+- Where do you want to sit?<br>Ubī vīs sedēre?
 
 - Where are you going to sit?<br>Quō vadis sedēre?
 
@@ -58,8 +58,8 @@
 
 - Can you pass me my drink / coffee / water?<br>Tradāsne mihi pōtum / cafēam / aquam? 
 
-- Will you order any food tonight?<br>
+- Will you order any food tonight?<br>Aliquem cibum hāc noctē mandābis?
 
 - Did you actually practice any Latin this week?<br>
 
-- Get a seat so that we can work there to study Latin.<br>
+- Sit there so that we may study Latin.<br>Ibī sedē ut latīnē studeāmus.
