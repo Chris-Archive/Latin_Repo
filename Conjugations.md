@@ -83,6 +83,49 @@ Take the present infinitive, then add the appropriate ending from above.
 | Coniugātiō Tertia (-iō Var.) | -erem | -erēs | -eret | -erēmus | -erētis | -erent |
 | Coniugātiō Quārta | -īrem | -īrēs | -īret | -īrēmus | -īrētis | -īrent |
 
+## Imperative
+
+### Active Present
+
+|  | 2nd | 3rd | 2nd | 3rd |
+| -: | :-: | :-: | :-: | :-: |
+| Coniugātiō Prima | -ā | - | -āte | - | 
+| Coniugātiō Secunda | -ē | - | -ēte | - | 
+| Coniugātiō Tertia | -e | - | -ite | - | 
+| Coniugātiō Tertia (-iō Var.) | -e | - | -ite | - | 
+| Coniugātiō Quārta | -ī | - | -īte | - | 
+
+### Passive Present
+
+|  | 2nd | 3rd | 2nd | 3rd |
+| -: | :-: | :-: | :-: | :-: |
+| Coniugātiō Prima | -āre | - | -āminī | - | 
+| Coniugātiō Secunda | -ēre | - | -ēminī | - | 
+| Coniugātiō Tertia | -ere | - | -iminī | - | 
+| Coniugātiō Tertia (-iō Var.) | -ere | - | -iminī | - | 
+| Coniugātiō Quārta | -īre | - | -īminī | - | 
+
+### Active Future
+
+|  | 2nd | 3rd | 2nd | 3rd |
+| -: | :-: | :-: | :-: | :-: |
+| Coniugātiō Prima | -ātō | -ātō | -ātōte | -antō | 
+| Coniugātiō Secunda | -ētō | -ētō | -ētōte | -entō | 
+| Coniugātiō Tertia | -itō | -itō | -itōte | -untō | 
+| Coniugātiō Tertia (-iō Var.) | -itō | -itō | -itōte | -iuntō | 
+| Coniugātiō Quārta | -ītō | -ītō | -ītōte | -iuntō | 
+
+### Passive Future
+
+|  | 2nd | 3rd | 2nd | 3rd |
+| -: | :-: | :-: | :-: | :-: |
+| Coniugātiō Prima | -ātor | -ātor | - | -āntor | 
+| Coniugātiō Secunda | -ētor | -ētor | - | -entor | 
+| Coniugātiō Tertia | -itor | -itor | - | -untor | 
+| Coniugātiō Tertia (-iō Var.) | -itor | -itor | - | -iuntor | 
+| Coniugātiō Quārta | -ītor | -ītor | - | -iuntor | 
+
+
 
 ## Notes
 ###  Third Conjugation -iō
